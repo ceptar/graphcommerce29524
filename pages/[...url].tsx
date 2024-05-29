@@ -31,7 +31,7 @@ import {
   RowProduct,
   RowRenderer,
   LayoutTitle,
-} from '../components'
+} from '../components/Layout'
 import { CategoryChildren } from '../components/Layout/CategoryChildren'
 import { LayoutNavigation, LayoutNavigationProps } from '../components/Layout/LayoutNavigation'
 import { CategoryPageDocument, CategoryPageQuery } from '../graphql/CategoryPage.gql'

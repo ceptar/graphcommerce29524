@@ -20,7 +20,7 @@ import { i18n } from '@lingui/core'
 import { Trans } from '@lingui/react'
 import { CircularProgress, Typography } from '@mui/material'
 import { useRouter } from 'next/router'
-import { LayoutNavigationProps, AddProductsToCartView } from '../../../components'
+import { LayoutNavigationProps, AddProductsToCartView } from '../../../components/Layout'
 import { Props, getStaticProps } from '../../p/[url]'
 
 type RouteProps = { url: string }

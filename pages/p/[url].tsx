@@ -46,7 +46,7 @@ import {
   RowRenderer,
   Usps,
   ProductPageGallery
-} from '../../components'
+} from '../../components/Layout'
 import { LayoutNavigation, LayoutNavigationProps } from '../../components/Layout/LayoutNavigation'
 import { UspsDocument, UspsQuery } from '../../components/Usps/Usps.gql'
 import { ProductPage2Document, ProductPage2Query } from '../../graphql/ProductPage2.gql'

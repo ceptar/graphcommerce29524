@@ -24,7 +24,7 @@ import {
 import { i18n } from '@lingui/core'
 import { Trans } from '@lingui/react'
 import { CircularProgress, Container } from '@mui/material'
-import { LayoutOverlay, LayoutOverlayProps, productListRenderer } from '../components'
+import { LayoutOverlay, LayoutOverlayProps, ProductListRenderer } from '../components/Layout'
 import { graphqlSharedClient } from '../lib/graphql/graphqlSsrClient'
 
 type Props = Record<string, unknown>
